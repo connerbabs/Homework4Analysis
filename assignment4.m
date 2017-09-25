@@ -9,7 +9,7 @@
 % the other using the bar command
 
 clear
-goAgain='y';
+goAgain='y'; %set up loop in case user wants to run the program again
 while(goAgain=='y')
 
     reptyp=0;
